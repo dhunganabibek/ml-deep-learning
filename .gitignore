@@ -1,1 +1,5 @@
 *.env
+
+
+# all the local models
+**/model_offload/**/*
