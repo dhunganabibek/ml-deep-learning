@@ -3,3 +3,6 @@
 
 # all the local models
 **/model_offload/**/*
+
+*.csv
+# ingnoring al the cs files for right now
